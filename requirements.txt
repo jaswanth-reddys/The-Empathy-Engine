@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+textblob
+pyttsx3
+jinja2
+python-multipart
